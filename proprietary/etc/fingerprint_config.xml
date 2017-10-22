@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>	
+
+<!--touch sensor button to capture-->
+<fingerprint id = "touch_sensor_capture" value = "false"/>
+
+<!--sensor button vib times:[30,80] -->
+<fingerprint id = "vib times" value = "40"/>
+
+<!--fingerprint menu in Settings/Security -->
+<fingerprint id = "menu_in_security" value = "false"/>
+
+
+</resources>
